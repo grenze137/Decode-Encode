@@ -1,9 +1,4 @@
-"""
-nový typ přidat do:
-seznam modes
-def needKey
-novou funkci
-"""
+
 
 """
 def name(t, k):
